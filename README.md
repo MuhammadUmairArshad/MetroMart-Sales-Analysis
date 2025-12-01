@@ -1,1 +1,2 @@
 # MetroMart-Sales-Analysis
+I designed a Power BI Sales Dashboard for MetroMart to transform raw sales data into actionable insights. The dashboard highlights key KPIs (Sales, Quantity, Profit, Discounts), tracks monthly trends, and reveals top products, customers, and categories. With interactive filters and a clean, branded design, it enables management to make quick, data-driven business decisions.
