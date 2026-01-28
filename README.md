@@ -2,7 +2,7 @@
 **Dashboard Link:** https://app.powerbi.com/reportEmbed?reportId=64dd0677-5bdd-4225-871b-56ca55ef7a82&autoAuth=true&ctid=bcb4e457-125f-4e50-9814-da88002ed5f9
 
 **Objective:** 
- To analyze sales performance, customer behavior, and product trends to help identify growth opportunities and improve business decisions.
+  To analyze sales performance, customer behavior, and product trends to help identify growth opportunities and improve business decisions.
 
 **Tools Used:** Power BI
 
