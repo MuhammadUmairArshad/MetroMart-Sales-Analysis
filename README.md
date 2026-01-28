@@ -17,6 +17,6 @@
 **Insights Derived:**
 - Technology category generates the highest sales, followed by Furniture and Office Supplies 
 - Corporate segment contributes the largest share of revenue compared to Consumer and Home Office 
-- New York and Los Angeles are among the top cities by sales 
+- California and New York are among the top cities by sales 
 
 **Outcome / Value:** This dashboard helps businesses understand sales pattern, identify high-performing products and customers, and make data-driven decisions to improve revenue and profitability.
