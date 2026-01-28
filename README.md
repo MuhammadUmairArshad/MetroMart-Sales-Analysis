@@ -9,14 +9,14 @@
 
 **Key Features:**
 - Built an interactive sales dashboard showing total sales, profit, quantity, and discounts
-- Analyzed sales by category, sub-category, customer segment, city, and state
-- Identified top products, customers, and cities by sales
+- Analyzed sales by category, sub-category, customer segment and state
+- Identified top products, customers, and states by sales
 - Created time-based sales trends from 2021 to 2024
 - Used DAX measures to calculate key KPIs like total sales, profit, and quantity
 
 **Insights Derived:**
 - Technology category generates the highest sales, followed by Furniture and Office Supplies 
 - Corporate segment contributes the largest share of revenue compared to Consumer and Home Office 
-- California and New York are among the top cities by sales 
+- California and New York are the top states by sales 
 
 **Outcome / Value:** This dashboard helps businesses understand sales pattern, identify high-performing products and customers, and make data-driven decisions to improve revenue and profitability.
